@@ -1,0 +1,27 @@
+{
+  "name": "victor-jolissaint-resume",
+  "version": "0.0.1",
+  "description": "My resume based on jsonresume.org project",
+  "main": "resume.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vjo/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Victor Jolissaint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vjo/resume/issues"
+  },
+  "homepage": "https://github.com/vjo/resume#readme",
+  "devDependencies": {
+    "jsonlint": "^1.6.2",
+    "resume-cli": "^0.4.17"
+  },
+  "dependencies": {}
+}
