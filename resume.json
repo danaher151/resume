@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "Victor Jolissaint",
+    "label": "Web Developer",
+    "picture": "https://en.gravatar.com/userimage/31406301/19eea480df5e2703718084b4b4fd3f95.jpg?size=300",
+    "email": "victor.jolissaint+resume@gmail.com",
+    "phone": "",
+    "website": "http://victor.jolissaint.net",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "England"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "vjo",
+        "url": "https://twitter.com/vjo"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Twitter",
+      "position": "Software Engineer",
+      "website": "https://twitter.com",
+      "startDate": "2014-04-25",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "company": "Mesagraph",
+      "position": "Software Engineer",
+      "website": "http://mesagraph.com",
+      "startDate": "2012-10-17",
+      "endDate": "2014-04-23",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Code First: Girls",
+      "position": "Volunteer",
+      "website": "http://www.codefirstgirls.org.uk",
+      "startDate": "2015-10-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Télécom Bretagne",
+      "area": "Networks and Telecommunication",
+      "studyType": "M. Eng.",
+      "startDate": "2009-09-01",
+      "endDate": "2012-09-01",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "website": "http://publication.com",
+      "summary": "Description..."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    }
+  ],
+
+
+  "languages": [
+
+
+    {
+      "name": "French",
+      "level": "Native speaker"
+    },
+    {
+      "name": "English",
+      "level": "Profesional working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ]
+}
