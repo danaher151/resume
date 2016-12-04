@@ -49,13 +49,15 @@
   "volunteer": [
     {
       "organization": "Code First: Girls",
-      "position": "Volunteer",
+      "position": "Teaching Assistant",
       "website": "http://www.codefirstgirls.org.uk",
       "startDate": "2015-10-01",
       "endDate": "",
-      "summary": "",
+      "summary": "Helping with the \"London General\" CF:G course and conferences hosted at Twitter",
       "highlights": [
-        ""
+        "Autumn 2015: Beginner HTML/CSS course",
+        "Spring 2016: Advanced Python course",
+        "Autumn 2016: Beginner HTML/CSS course"
       ]
     }
   ],
