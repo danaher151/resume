@@ -81,6 +81,17 @@
       "courses": [
         ""
       ]
+    },
+    {
+      "institution": "Jules Viette Secondary School",
+      "area": "Electrotechnics",
+      "studyType": "A-levels",
+      "startDate": "2005-09-01",
+      "endDate": "2007-07-01",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
     }
   ],
   "awards": [
