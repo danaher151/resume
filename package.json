@@ -20,8 +20,9 @@
   },
   "homepage": "https://github.com/vjo/resume#readme",
   "devDependencies": {
-    "jsonlint": "^1.6.2",
-    "resume-cli": "^0.4.17"
+    "jsonlint": "^1.6.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "resume-cli": "^0.4.18"
+  }
 }
