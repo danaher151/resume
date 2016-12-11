@@ -28,9 +28,11 @@
       "position": "Software Engineer",
       "website": "https://twitter.com",
       "startDate": "2014-04-25",
-      "summary": "",
+      "summary": "Fullstack engineer across multiple projects. I started building a world-wide TV Analytics application with the Mesagraph and SecondSync teams (merged after acquisition) mainly focusing on the frontend. I then started working on the main Twitter web application, contributing to the Event Timelines project which slowly pivoted into Live Video, building the web experience as well as tooling around live events management.",
       "highlights": [
-        ""
+        "Working with a huge codebase",
+        "Switching between different languages and projects: Scala and Javascript",
+        "Collaborating with colleagues mainly based in the USA (Boston and San Francisco)"
       ]
     },
     {
