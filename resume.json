@@ -39,10 +39,11 @@
       "website": "http://mesagraph.com",
       "startDate": "2012-10-17",
       "endDate": "2014-04-23",
-      "summary": "Software engineer in a four developers team, I have mainly been working on frontend development building fast and easy to use services. Meaningly, a single-page Javascript web application was a TV Analytics dashboard based on Twitter data, displaying tweets, charts and interesting metrics about TV shows.",
+      "summary": "Software engineer in a four developers team, I have mainly been working on frontend development building fast and easy to use applications. The main one, Meaningly was TV Analytics dashboard based on Twitter data, displaying tweets, charts and interesting metrics about TV shows.",
       "highlights": [
         "8-person startup",
-        "Acquired by Twitter on the 2014-03-31"
+        "Lead on a content moderation platform",
+        "Acquired by Twitter on March 31, 2014"
       ]
     }
   ],
